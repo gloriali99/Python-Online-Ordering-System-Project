@@ -130,7 +130,7 @@ virtualenv==16.4.1
 wcwidth==0.1.7
 webencodings==0.5
 WebOb==1.4
-Werkzeug==0.9.6
+Werkzeug==0.15.3
 wrapt==1.10.11
 WTForms==2.1
 xvfbwrapper==0.2.4
