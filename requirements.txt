@@ -10,7 +10,7 @@ branca==0.3.1
 chardet==2.3.0
 CherryPy==3.5.0
 cloudpickle==0.5.6
-cryptography==1.7.1
+cryptography==3.2
 cycler==0.10.0
 Cython==0.29.2
 decorator==4.0.11
