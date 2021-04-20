@@ -76,7 +76,7 @@ pluggy==0.9.0
 prompt-toolkit==1.0.9
 protobuf==3.6.1
 psutil==5.5.0
-py==1.8.0
+py==1.10.0
 pyapi-gitlab==7.5.0
 pyasn1==0.1.9
 pycodestyle==2.4.0
