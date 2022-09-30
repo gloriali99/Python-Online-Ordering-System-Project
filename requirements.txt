@@ -37,7 +37,7 @@ itsdangerous==0.24
 jdcal==1.0
 jedi==0.10.0
 Jinja2==2.8
-joblib==0.10.4.dev0
+joblib==1.2.0
 jsonschema==2.3.0
 jupyter-client==5.2.3
 jupyter-console==5.0.0
